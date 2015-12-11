@@ -1,0 +1,11 @@
+C:\Users\Simon\Dropbox\Visual Studio 2010\Projects\OOP\PocketMonsters\PocketMonsters\bin\Debug\PocketMonsters.exe
+C:\Users\Simon\Dropbox\Visual Studio 2010\Projects\OOP\PocketMonsters\PocketMonsters\bin\Debug\PocketMonsters.pdb
+C:\Users\Simon\Dropbox\Visual Studio 2010\Projects\OOP\PocketMonsters\PocketMonsters\obj\x86\Debug\PocketMonsters.Properties.Resources.resources
+C:\Users\Simon\Dropbox\Visual Studio 2010\Projects\OOP\PocketMonsters\PocketMonsters\obj\x86\Debug\PocketMonsters.SelectAttack.resources
+C:\Users\Simon\Dropbox\Visual Studio 2010\Projects\OOP\PocketMonsters\PocketMonsters\obj\x86\Debug\PocketMonsters.SelectMonster.resources
+C:\Users\Simon\Dropbox\Visual Studio 2010\Projects\OOP\PocketMonsters\PocketMonsters\obj\x86\Debug\PocketMonsters.Welcome.resources
+C:\Users\Simon\Dropbox\Visual Studio 2010\Projects\OOP\PocketMonsters\PocketMonsters\obj\x86\Debug\PocketMonsters.exe
+C:\Users\Simon\Dropbox\Visual Studio 2010\Projects\OOP\PocketMonsters\PocketMonsters\obj\x86\Debug\PocketMonsters.pdb
+C:\Users\Simon\Dropbox\Visual Studio 2010\Projects\OOP\PocketMonsters\PocketMonsters\obj\x86\Debug\PocketMonsters.Winner.resources
+C:\Users\Simon\Dropbox\Visual Studio 2010\Projects\OOP\PocketMonsters\PocketMonsters\obj\x86\Debug\PocketMonsters.csproj.GenerateResource.Cache
+C:\Users\Simon\Dropbox\Visual Studio 2010\Projects\OOP\PocketMonsters\PocketMonsters\obj\x86\Debug\PocketMonsters.csprojResolveAssemblyReference.cache
